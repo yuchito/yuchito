@@ -1,4 +1,4 @@
-### Hey There!, I am **[Houssam aka yuchito](https://yuchito.github.io/)**
+### Hey There!
 
   「 I am a full stack web appplication developer from **Morrocco** 」  
 
